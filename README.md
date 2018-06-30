@@ -6,4 +6,5 @@ Buscamos construir un espacio donde practicar de manera conjunta y colaborativa 
 En breve publicaremos las instrucciones para poder participar. Mientras tanto po
 dés enviar un correo interno a _Gustavo del Dago_.
 
----
+## Sugerencia.
+Ir pensando en migrar los contenidos de Git Hub a GitLab
